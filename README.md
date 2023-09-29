@@ -22,13 +22,13 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/slackr.git
+git clone https://github.com/treko50/slackr/
 Navigate to the project directory:
 
 bash
 Copy code
-cd slackr-app
-Depending on the project version you wish to work with (Kotlin or React Native), follow the respective instructions in the project directory for installation and running the app.
+cd slackr
+Depending on the project version you wish to work with (Kotlin), follow the respective instructions in the project directory for installation and running the app.
 
 bash
 Copy code
