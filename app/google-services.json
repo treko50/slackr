@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821346451048",
+    "firebase_url": "https://slackr-project.firebaseio.com",
+    "project_id": "slackr-project",
+    "storage_bucket": "slackr-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821346451048:android:411ba198de7a10246fc5dd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821346451048-vhrng33j3fjo5l2beaga07v34bk7dqss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6NMN1rbl5qR0NjKFoYNOVnDq1umBNxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821346451048-vhrng33j3fjo5l2beaga07v34bk7dqss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="university">
+       <item>Abilene Christian University</item>
+       <item>Adelphi University</item>
+       <item>Agnes Scott College</item>
+       <item>Air Force Institute of Technology</item>
+       <item>Alabama A and M University</item>
+       <item>Alabama A and M University</item>
+       <item>Alabama State University</item>
+       <item>Alaska Pacific University</item>
+       <item>Albertson College of Idaho</item>
+       <item>Albion College</item>
+       <item>Alderson-Broaddus College</item>
+       <item>Alfred University</item>
+       <item>Allegheny College</item>
+       <item>Allentown College of Saint Francis de Sales</item>
+       <item>Alma College</item>
+       <item>Alverno College</item>
+       <item>Ambassador University</item>
+       <item>American Coastline University</item>
+       <item>American Graduate School of International Management</item>
+       <item>American International College</item>
+       <item>American University</item>
+       <item>Amherst College</item>
+       <item>Andrews University</item>
+       <item>Angelo State University</item>
+       <item>Antioch College</item>
+       <item>Antioch New England</item>
+       <item>Antioch University-Los Angeles</item>
+       <item>Antioch University-Seattle</item>
+       <item>Appalachian State University</item>
+       <item>Aquinas College</item>
+       <item>Arizona State University</item>
+       <item>Arizona State University East</item>
+       <item>Arizona State University West</item>
+       <item>Arizona Western College</item>
+       <item>Arkansas State University, Jonesboro</item>
+       <item>Arkansas Tech University</item>
+       <item>Armstrong State College</item>
+       <item>Ashland University</item>
+       <item>Assumption College</item>
+       <item>Athens State College</item>
+       <item>Auburn University</item>
+       <item>Auburn University - Montgomery</item>
+       <item>Augsburg College</item>
+       <item>Augustana College</item>
+       <item>Augustana College</item>
+       <item>Aurora University</item>
+       <item>Austin College</item>
+       <item>Austin Peay State University</item>
+       <item>Averett College</item>
+       <item>Avila College</item>
+       <item>Azusa Pacific University</item>
+       <item>Babson College</item>
+       <item>Baldwin-Wallace College</item>
+       <item>Ball State University</item>
+       <item>Baker University</item>
+       <item>Baptist Bible College</item>
+       <item>Bard College</item>
+       <item>Barry University</item>
+       <item>Bastyr University</item>
+       <item>Bates College</item>
+       <item>Baylor College of Medicine</item>
+       <item>Baylor University</item>
+       <item>Beaver College</item>
+       <item>Belmont University</item>
+       <item>Beloit College</item>
+       <item>Bemidji State University</item>
+       <item>Benedictine College</item>
+       <item>Bennington College</item>
+       <item>Bentley College</item>
+       <item>Berea College</item>
+       <item>Berklee College of Music</item>
+       <item>Bethany College</item>
+       <item>Bethany College</item>
+       <item>Bethel College</item>
+       <item>Bethel College and Seminary</item>
+       <item>Biola University</item>
+       <item>Birmingham-Southern College</item>
+       <item>Black Hills State University</item>
+       <item>Bloomsburg University of Pennsylvania</item>
+       <item>Bluffton College</item>
+       <item>Bob Jones University</item>
+       <item>Boise State University</item>
+       <item>Boston College</item>
+       <item>Boston Graduate School of Psychoanalysis</item>
+       <item>Boston University</item>
+       <item>Bowdoin College</item>
+       <item>Bowie State University</item>
+       <item>Bowling Green State University</item>
+       <item>Bradley University</item>
+       <item>Brandeis University</item>
+       <item>Brenau University</item>
+       <item>Briar Cliff College</item>
+       <item>Bridgewater College</item>
+       <item>Brigham Young University</item>
+       <item>Brigham Young University Hawaii</item>
+       <item>Brown University</item>
+       <item>Bryant College</item>
+       <item>Bryn Mawr College</item>
+       <item>Bucknell University</item>
+       <item>Buena Vista University</item>
+       <item>Butler University</item>
+       <item>California Coast University</item>
+       <item>California Institute of Technology</item>
+       <item>California Lutheran University</item>
+       <item>California Maritime Academy</item>
+       <item>California National University</item>
+       <item>California Pacific University</item>
+       <item>California Polytechnic State University, San Luis Obispo</item>
+       <item>California School of Professional Psychology</item>
+       <item>California State Polytechnic University, Pomona</item>
+       <item>California State University System</item>
+       <item>California State University, Bakersfield</item>
+       <item>California State University, Chico</item>
+       <item>California State University, Dominguez Hills</item>
+       <item>California State University, Fresno</item>
+       <item>California State University, Fullerton</item>
+       <item>California State University, Hayward</item>
+       <item>California State University, Long Beach</item>
+       <item>California State University, Los Angeles</item>
+       <item>California State University, Monterey Bay</item>
+       <item>California State University, Northridge</item>
+       <item>California State University, Sacramento</item>
+       <item>California State University, San Bernardino</item>
+       <item>California State University, San Jose</item>
+       <item>California State University, San Marcos</item>
+       <item>California State University, Sacramento</item>
+       <item>California State University, Stanislaus</item>
+       <item>California University of Pennsylvania</item>
+       <item>Calvin College</item>
+       <item>Campbell University</item>
+       <item>Campbellsville College</item>
+       <item>Cameron University</item>
+       <item>Canisius College</item>
+       <item>Carleton College</item>
+       <item>Carlow College</item>
+       <item>Carnegie Mellon University</item>
+       <item>Carroll College</item>
+       <item>Carroll College</item>
+       <item>Carson-Newman College</item>
+       <item>Carthage College</item>
+       <item>Case Western Reserve University</item>
+       <item>Castleton State University</item>
+       <item>The Catholic University of America</item>
+       <item>Cedarville College</item>
+       <item>Centenary College of Louisiana</item>
+       <item>Central College</item>
+       <item>Central Connecticut State University</item>
+       <item>Central Methodist College</item>
+       <item>Central Michigan University</item>
+       <item>Central Missouri State University</item>
+       <item>Central Washington University</item>
+       <item>Centre College</item>
+       <item>Chadron State College</item>
+       <item>Champlain College</item>
+       <item>Chapman University</item>
+       <item>Chatham College</item>
+       <item>Chesapeake College</item>
+       <item>Cheyney University</item>
+       <item>The Chicago School of Professional Psychology</item>
+       <item>Christian Brothers University</item>
+       <item>Christian Theological Seminary</item>
+       <item>Christopher Newport University</item>
+       <item>The Citadel</item>
+       <item>City University</item>
+       <item>City University of New York</item>
+       <item>Claremont Graduate School</item>
+       <item>Claremont McKenna College</item>
+       <item>Clarion University of Pennsylvania</item>
+       <item>Clark University</item>
+       <item>Clarke College</item>
+       <item>Clarkson University</item>
+       <item>Clayton State College</item>
+       <item>Clemson University</item>
+       <item>Cleveland State University</item>
+       <item>Clinch Valley College</item>
+       <item>Coastal Carolina University</item>
+       <item>Coe College</item>
+       <item>Coker College</item>
+       <item>Colby College</item>
+       <item>Colgate University</item>
+       <item>College of the Atlantic</item>
+       <item>College of Charleston</item>
+       <item>College of Eastern Utah</item>
+       <item>College of the Holy Cross</item>
+       <item>College of Saint Benedict</item>
+       <item>College of Saint Catherine</item>
+       <item>College of St. Francis</item>
+       <item>College of Saint Rose</item>
+       <item>College of St. Scholastica</item>
+       <item>College of William and Mary</item>
+       <item>The College of Wooster</item>
+       <item>Colorado Christian University</item>
+       <item>Colorado College</item>
+       <item>Colorado School of Mines</item>
+       <item>Colorado State University</item>
+       <item>Columbia College Chicago</item>
+       <item>Columbia Southern University</item>
+       <item>Columbia Union College</item>
+       <item>Columbia University</item>
+       <item>Concordia College-Ann Arbor</item>
+       <item>Concordia College-Moorhead</item>
+       <item>Concordia College-St. Paul</item>
+       <item>Concordia College-Seward</item>
+       <item>Concordia University River Forest, Illinois</item>
+       <item>Connecticut College</item>
+       <item>The Cooper Union for the Advancement of Science and Art</item>
+       <item>Coppin State College</item>
+       <item>Cornell College</item>
+       <item>Cornell University</item>
+       <item>Cornerstone College</item>
+       <item>Creighton University</item>
+       <item>Curry College</item>
+       <item>Daemen College</item>
+       <item>Dakota State University</item>
+       <item>Dakota Wesleyan University</item>
+       <item>Dallas Baptist University</item>
+       <item>Dana College</item>
+       <item>Daniel Webster College</item>
+       <item>Dartmouth College</item>
+       <item>Davenport College Detroit College of Business</item>
+       <item>Davidson College</item>
+       <item>Davis  and  Elkins College</item>
+       <item>Davis  and  Elkins College</item>
+       <item>Delaware State University</item>
+       <item>Delta State University</item>
+       <item>Denison University</item>
+       <item>DePaul University</item>
+       <item>DePauw University</item>
+       <item>DeVry Institute of Technology</item>
+       <item>DeVry Institute of Technology-Dallas</item>
+       <item>DeVry Institute of Technology-Phoenix</item>
+       <item>Dickinson College</item>
+       <item>Dickinson State University</item>
+       <item>Dillard University</item>
+       <item>Dominican College</item>
+       <item>Dordt College</item>
+       <item>Dowling College</item>
+       <item>Drake University</item>
+       <item>Drew University</item>
+       <item>Drexel University</item>
+       <item>Drury College</item>
+       <item>Duke University</item>
+       <item>Duquesne University</item>
+       <item>Earlham College</item>
+       <item>East Carolina University</item>
+       <item>East Central University</item>
+       <item>East Stroudsburg State University of Pennsylvania</item>
+       <item>East Tennessee State University</item>
+       <item>East Texas State University</item>
+       <item>Eastern Connecticut State University</item>
+       <item>Eastern Illinois University</item>
+       <item>Eastern Kentucky University</item>
+       <item>Eastern Mennonite University</item>
+       <item>Eastern Michigan University</item>
+       <item>Eastern Nazarene College</item>
+       <item>Eastern New Mexico University</item>
+       <item>Eastern Oregon State College</item>
+       <item>Eastern Washington University</item>
+       <item>Edgewood College</item>
+       <item>Edinboro University of Pennsylvania</item>
+       <item>Elizabeth City State University</item>
+       <item>Elizabethtown College</item>
+       <item>Elmhurst College</item>
+       <item>Elon College</item>
+       <item>Embry-Riddle Aeronautical University, Arizona</item>
+       <item>Embry-Riddle Aeronautical University, Florida</item>
+       <item>Emerson College</item>
+       <item>Emmanuel College</item>
+       <item>Emmaus Bible College</item>
+       <item>Emporia State University</item>
+       <item>Emory  and  Henry College</item>
+       <item>Emory  and  Henry College</item>
+       <item>Emory University</item>
+       <item>Evergreen State College</item>
+       <item>Fairfield University</item>
+       <item>Fairleigh Dickinson University</item>
+       <item>Fairmont State College</item>
+       <item>Fayetteville State University</item>
+       <item>Ferris State University</item>
+       <item>Fielding Institute</item>
+       <item>Fisk University</item>
+       <item>Fitchburg State College</item>
+       <item>Florida Agricultural and Mechanical University</item>
+       <item>Florida Atlantic University</item>
+       <item>Florida Gulf Coast University</item>
+       <item>Florida Institute of Technology</item>
+       <item>Florida International University</item>
+       <item>Florida State University</item>
+       <item>Fontbonne College</item>
+       <item>Fordham University</item>
+       <item>Fort Hays State University</item>
+       <item>Fort Lewis College</item>
+       <item>Franciscan University</item>
+       <item>Franklin and Marshall College</item>
+       <item>Franklin Pierce Law Center</item>
+       <item>Franklin University</item>
+       <item>Fresno Pacific University</item>
+       <item>Friends University</item>
+       <item>Frostburg State University</item>
+       <item>Fuller Theological Seminary</item>
+       <item>Furman University</item>
+       <item>Gallaudet University</item>
+       <item>Gannon University</item>
+       <item>Geneva College</item>
+       <item>George Fox College</item>
+       <item>George Mason University</item>
+       <item>George Washington University</item>
+       <item>Georgetown University</item>
+       <item>Georgia College</item>
+       <item>Georgia Institute of Technology</item>
+       <item>Georgia Southern University</item>
+       <item>Georgia Southwestern College</item>
+       <item>Georgia State University</item>
+       <item>Georgian Court College</item>
+       <item>Gettysburg College</item>
+       <item>GMI Engineering and Management Institute</item>
+       <item>Golden Gate University</item>
+       <item>Goldey-Beacom College</item>
+       <item>Gonzaga University</item>
+       <item>Goshen College</item>
+       <item>Goucher College</item>
+       <item>Governors State University</item>
+       <item>Grace College</item>
+       <item>Graceland College</item>
+       <item>Grand Valley State University</item>
+       <item>Greenleaf University</item>
+       <item>Grinnell College</item>
+       <item>Guilford College</item>
+       <item>Gustavus Adolphus College</item>
+       <item>Gutenberg CollegeH</item>
+       <item>Hamilton College</item>
+       <item>Hamline University</item>
+       <item>Hampden-Sydney College</item>
+       <item>Hampshire College</item>
+       <item>Hampton University</item>
+       <item>Hanover College</item>
+       <item>Harding University</item>
+       <item>Hartwick College</item>
+       <item>Harvard University</item>
+       <item>Harvey Mudd College</item>
+       <item>Haskell Indian Nations University</item>
+       <item>Hastings College</item>
+       <item>Haverford College in Pennsylvania</item>
+       <item>Hawaii Pacific University</item>
+       <item>Heidelberg College</item>
+       <item>Hendrix College</item>
+       <item>Hesston College</item>
+       <item>High Point University</item>
+       <item>Hillsdale College</item>
+       <item>Hiram College</item>
+       <item>Hobart and William Smith Colleges</item>
+       <item>Hofstra University</item>
+       <item>Hollins College</item>
+       <item>Holy Cross College</item>
+       <item>Hood College</item>
+       <item>Hope College</item>
+       <item>Howard University</item>
+       <item>Humboldt State University</item>
+       <item>Hunter College</item>
+       <item>Huntingdon College</item>
+       <item>Huntington College</item>
+       <item>ICI University</item>
+       <item>Idaho State University</item>
+       <item>Illinois Benedictine College</item>
+       <item>Illinois Institute of Technology</item>
+       <item>Illinois State University</item>
+       <item>Incarnate Word College</item>
+       <item>Indiana Institute of Technology</item>
+       <item>Indiana State University</item>
+       <item>Indiana University System</item>
+       <item>Indiana University/Purdue University at Columbus</item>
+       <item>Indiana University/Purdue University at Fort Wayne</item>
+       <item>Indiana University/Purdue University at Indianapolis</item>
+       <item>Indiana University at Bloomington</item>
+       <item>Indiana University at South Bend</item>
+       <item>Indiana University of Pennsylvania</item>
+       <item>Indiana University Southeast at New Albany</item>
+       <item>Indiana Wesleyan University, Marion</item>
+       <item>Inter American University of Puerto Rico Metropolitan Campus</item>
+       <item>Iona College</item>
+       <item>Iowa State University</item>
+       <item>Ithaca College</item>
+       <item>Jackson State University</item>
+       <item>Jacksonville University</item>
+       <item>Jacksonville State University</item>
+       <item>James Madison University</item>
+       <item>Jamestown College</item>
+       <item>The Jewish Theological Seminary</item>
+       <item>John Brown University</item>
+       <item>John F. Kennedy University</item>
+       <item>Johns Hopkins University</item>
+       <item>Johnson Bible College</item>
+       <item>Johnson C. Smith University</item>
+       <item>Johnson  and  Wales University</item>
+       <item>Johnson  and  Wales University</item>
+       <item>Johnson  and  Wales University-Charleston</item>
+       <item>Johnson  and  Wales University-Charleston</item>
+       <item>Jones College</item>
+       <item>Judson College</item>
+       <item>Juniata College</item>
+       <item>Kalamazoo College</item>
+       <item>Kansas State University</item>
+       <item>Kansas Wesleyan University</item>
+       <item>Kean College</item>
+       <item>Keene State College</item>
+       <item>Kent State University</item>
+       <item>Kenyon College</item>
+       <item>Kings College</item>
+       <item>Knox College</item>
+       <item>Kutztown University of Pennsylvania</item>
+       <item>La Sierra University</item>
+       <item>LaGrange College</item>
+       <item>Lafayette College</item>
+       <item>Lake Forest College</item>
+       <item>Lake Superior State University</item>
+       <item>Lamar University</item>
+       <item>Langston University</item>
+       <item>LaSalle University</item>
+       <item>Lawrence University</item>
+       <item>Lawrence Technological University</item>
+       <item>Lebanon Valley College</item>
+       <item>Lehigh Univervsity</item>
+       <item>Le Moyne College</item>
+       <item>Lenoir-Rhyne College</item>
+       <item>LeTourneau University</item>
+       <item>Lewis  and  Clark College</item>
+       <item>Lewis  and  Clark College</item>
+       <item>Lewis-Clark State College</item>
+       <item>Lewis University</item>
+       <item>Liberty University</item>
+       <item>Lincoln University</item>
+       <item>Linfield College</item>
+       <item>Lock Haven University of Pennsylvania</item>
+       <item>Loma Linda University</item>
+       <item>Long Island University</item>
+       <item>Longwood College</item>
+       <item>Loras College</item>
+       <item>Louisiana College</item>
+       <item>Louisiana State University</item>
+       <item>Louisiana State University at Alexandria</item>
+       <item>Louisiana State University at Shreveport</item>
+       <item>Louisiana Tech University</item>
+       <item>Loyola College</item>
+       <item>Loyola Marymount University</item>
+       <item>Loyola University Chicago</item>
+       <item>Luther College</item>
+       <item>Luther Seminary</item>
+       <item>Lycoming College</item>
+       <item>Lynchburg College</item>
+       <item>Lyndon State College</item>
+       <item>Lyon College</item>
+       <item>Macalester College</item>
+       <item>Maharishi University of Management</item>
+       <item>Maine Maritime Academy</item>
+       <item>Malone College</item>
+       <item>Manhattan College</item>
+       <item>Mankato State University</item>
+       <item>Mansfield University of Pennsylvania</item>
+       <item>Marietta College</item>
+       <item>Marist College</item>
+       <item>Marlboro College</item>
+       <item>Marquette University</item>
+       <item>Marshall University</item>
+       <item>Mary Baldwin College</item>
+       <item>Marymount College</item>
+       <item>Marymount University</item>
+       <item>Mary Washington College</item>
+       <item>Massachusetts Institute of Technology</item>
+       <item>McMurry University</item>
+       <item>McNeese State University</item>
+       <item>Medical College of Georgia</item>
+       <item>Medical College of Wisconsin</item>
+       <item>Mercer University</item>
+       <item>Mercyhurst College</item>
+       <item>Meredith College</item>
+       <item>Messiah College</item>
+       <item>Metropolitan State College of Denver</item>
+       <item>Metropolitan State University</item>
+       <item>Miami Christian University</item>
+       <item>Michigan State University</item>
+       <item>Michigan Technological University</item>
+       <item>Mid-America Nazarene College</item>
+       <item>Middlebury College</item>
+       <item>Middle Georgia College</item>
+       <item>Middle Tennessee State University</item>
+       <item>Midwestern State University</item>
+       <item>Millersville University of Pennsylvania</item>
+       <item>Milligan College</item>
+       <item>Millikin University</item>
+       <item>Millsaps College</item>
+       <item>Milwaukee School of Engineering</item>
+       <item>Minot State University</item>
+       <item>Minneapolis College of Art and Design</item>
+       <item>Mississippi College</item>
+       <item>Mississippi State University</item>
+       <item>Mississippi University for Women</item>
+       <item>Missouri Southern State College</item>
+       <item>Missouri Western State College</item>
+       <item>Molloy College</item>
+       <item>Monmouth College</item>
+       <item>Monmouth University</item>
+       <item>Montana State University-Billings</item>
+       <item>Montana State University-Bozeman</item>
+       <item>Montana State University-Northern</item>
+       <item>Montana Tech</item>
+       <item>Montclair State University</item>
+       <item>Montreat College</item>
+       <item>Moravian College</item>
+       <item>Moorhead State University</item>
+       <item>Morehouse College</item>
+       <item>Morgan State University</item>
+       <item>Mount Senario College</item>
+       <item>Mount Holyoke College</item>
+       <item>Mount Saint Joseph College</item>
+       <item>Mount Saint Mary College</item>
+       <item>Mount Union College</item>
+       <item>Murray State University</item>
+       <item>Muskingum College</item>
+       <item>National Defense University</item>
+       <item>National-Louis University</item>
+       <item>National Technological University</item>
+       <item>National University</item>
+       <item>Naval Postgraduate School</item>
+       <item>Nazareth College</item>
+       <item>Newberry College</item>
+       <item>New England Institute of Technology</item>
+       <item>New College of California</item>
+       <item>New Hampshire College</item>
+       <item>New Jersey Institute of Technology</item>
+       <item>New Mexico Highlands University</item>
+       <item>New Mexico Institute of Mining  and  Technology</item>
+       <item>New Mexico Institute of Mining  and  Technology</item>
+       <item>New Mexico State University</item>
+       <item>New York Institute of Technology</item>
+       <item>New York University</item>
+       <item>Niagara University</item>
+       <item>Nicholls State University</item>
+       <item>Norfolk State University</item>
+       <item>North Adams State College</item>
+       <item>North Carolina Central University</item>
+       <item>North Carolina A and T State University</item>
+       <item>North Carolina A and T State University</item>
+       <item>North Carolina State University</item>
+       <item>North Carolina Wesleyan College</item>
+       <item>North Central Bible College</item>
+       <item>North Dakota State University</item>
+       <item>Northland College</item>
+       <item>North Park College and Theological Seminary</item>
+       <item>Northeastern Illinois University</item>
+       <item>Northeastern Louisiana University</item>
+       <item>Northeastern State University</item>
+       <item>Northeastern University</item>
+       <item>Northern Arizona University</item>
+       <item>Northern Illinois University</item>
+       <item>Northern Kentucky University</item>
+       <item>Northern Michigan University</item>
+       <item>Northern State University</item>
+       <item>Northwest Missouri State University</item>
+       <item>Northwest Nazarene College</item>
+       <item>Northwestern College of Iowa</item>
+       <item>Northwestern State University</item>
+       <item>Northwestern University</item>
+       <item>Norwich University</item>
+       <item>Nova Southeastern University</item>
+       <item>Oakland University</item>
+       <item>Oberlin College</item>
+       <item>Occidental College</item>
+       <item>Ohio Dominican College</item>
+       <item>Ohio Northern University</item>
+       <item>Ohio State University, Columbus</item>
+       <item>Ohio State University, Marion</item>
+       <item>Ohio Wesleyan University</item>
+       <item>Ohio University, Athens</item>
+       <item>Oklahoma Baptist University</item>
+       <item>Oklahoma City University</item>
+       <item>Oklahoma State University</item>
+       <item>Old Dominion University</item>
+       <item>Olivet Nazarene University</item>
+       <item>Oral Roberts University</item>
+       <item>Oregon Graduate Institute of Science and Technology</item>
+       <item>Oregon Health Sciences University</item>
+       <item>Oregon Institute of Technology</item>
+       <item>Oregon State University</item>
+       <item>Otterbein College</item>
+       <item>Our Lady of the Lake University</item>
+       <item>Pace University</item>
+       <item>Pacific Lutheran University</item>
+       <item>Pacific Union College</item>
+       <item>Pacific University</item>
+       <item>Pacific Western University</item>
+       <item>Palm Beach Atlantic College</item>
+       <item>Peace College</item>
+       <item>Pembroke State University</item>
+       <item>Pennsylvania State System of Higher Education</item>
+       <item>Pennsylvania State University</item>
+       <item>Pennsylvania State University-Schuylkill Campus</item>
+       <item>Pensacola Christian College</item>
+       <item>Pepperdine University</item>
+       <item>Peru State College</item>
+       <item>Philadelphia College of Textiles and Science</item>
+       <item>Phillips University</item>
+       <item>Pittsburg State University</item>
+       <item>Pitzer College</item>
+       <item>Platt College</item>
+       <item>Plymouth State College</item>
+       <item>Point Loma Nazarene College</item>
+       <item>Polytechnic University of New York</item>
+       <item>Polytechnic University of Puerto Rico</item>
+       <item>Pomona College</item>
+       <item>Portland State University</item>
+       <item>Prairie View A and M University</item>
+       <item>Prairie View A and M University</item>
+       <item>Pratt Institute</item>
+       <item>Prescott College</item>
+       <item>Princeton University</item>
+       <item>Presbyterian College</item>
+       <item>Providence College</item>
+       <item>Purdue University</item>
+       <item>Purdue University Calumet</item>
+       <item>Purdue University North Central</item>
+       <item>Quincy University</item>
+       <item>Quinnipiac College</item>
+       <item>Radford University</item>
+       <item>Ramapo College</item>
+       <item>Randolph-Macon College</item>
+       <item>Randolph-Macon Womans College</item>
+       <item>Reed College</item>
+       <item>Regent University</item>
+       <item>Regis University</item>
+       <item>Rensselaer Polytechnic Institute</item>
+       <item>Rhode Island College</item>
+       <item>Rhodes College</item>
+       <item>Rice University</item>
+       <item>Richard Stockton College of New Jersey</item>
+       <item>Rider University</item>
+       <item>Ripon College</item>
+       <item>Rivier College</item>
+       <item>Roanoke College</item>
+       <item>Rochester Institute of Technology</item>
+       <item>The Rockefeller University</item>
+       <item>Rockford College</item>
+       <item>Rockhurst College</item>
+       <item>Rocky Mountain College</item>
+       <item>Roger Williams University</item>
+       <item>Rollins College</item>
+       <item>Rosary College</item>
+       <item>Rose-Hulman Institute of Technology</item>
+       <item>Rowan College</item>
+       <item>Rutgers University</item>
+       <item>Rutgers University, Camden</item>
+       <item>Rutgers University, Newark</item>
+       <item>The Sage Colleges</item>
+       <item>Sacred Heart University</item>
+       <item>Sacred Heart University</item>
+       <item>Saginaw Valley State University</item>
+       <item>St. Ambrose University</item>
+       <item>St. Andrews Presbyterian College</item>
+       <item>Saint Anselm College</item>
+       <item>St. Bonaventure University</item>
+       <item>Saint Cloud State University</item>
+       <item>Saint Edwards University</item>
+       <item>Saint Francis College</item>
+       <item>St. Johns College-Annapolis</item>
+       <item>St. Johns College-Santa Fe</item>
+       <item>Saint Johns University</item>
+       <item>Saint Johns University</item>
+       <item>St. Joseph College</item>
+       <item>Saint Josephs College</item>
+       <item>St. Josephs College</item>
+       <item>Saint Josephs University</item>
+       <item>St. Lawrence University</item>
+       <item>St. Louis College of Pharmacy</item>
+       <item>Saint Louis University</item>
+       <item>St. Martins College</item>
+       <item>Saint Mary College</item>
+       <item>Saint Marys College</item>
+       <item>Saint Marys College of California</item>
+       <item>Saint Marys University of Minnesota</item>
+       <item>Saint Michaels College</item>
+       <item>Saint Olaf College</item>
+       <item>St. Thomas University</item>
+       <item>Saint Vincent College</item>
+       <item>Saint Xavier University</item>
+       <item>Salisbury State University</item>
+       <item>Salish Kootenai College</item>
+       <item>Sam Houston State University</item>
+       <item>Samford University</item>
+       <item>San Diego State University</item>
+       <item>San Francisco State University</item>
+       <item>San Jose State University</item>
+       <item>Santa Clara University</item>
+       <item>Sarah Lawrence College</item>
+       <item>School of the Art Institute of Chicago</item>
+       <item>Seattle Pacific University</item>
+       <item>Seattle University</item>
+       <item>Seton Hall University</item>
+       <item>Sewanee, University of the South</item>
+       <item>Shawnee State University</item>
+       <item>Shenandoah University</item>
+       <item>Shippensburg University of Pennsylvania</item>
+       <item>Shorter College</item>
+       <item>Simmons College</item>
+       <item>Simons Rock College</item>
+       <item>Simpson College</item>
+       <item>Skidmore College</item>
+       <item>Slippery Rock University of Pennsylvania</item>
+       <item>Smith College</item>
+       <item>Sonoma State University</item>
+       <item>South Dakota School of Mines and Technology</item>
+       <item>South Dakota State University</item>
+       <item>Southeast Missouri State University</item>
+       <item>Southeastern Louisiana University</item>
+       <item>Southern College</item>
+       <item>Southern College of Technology</item>
+       <item>Southern Connecticut State University</item>
+       <item>Southern Illinois University</item>
+       <item>Southern Illinois University-Carbondale</item>
+       <item>Southern Illinois University-Edwardsville</item>
+       <item>Southern Methodist University</item>
+       <item>Southern Nazarene University</item>
+       <item>Southern Oregon State College</item>
+       <item>Southern University</item>
+       <item>Southern Utah University</item>
+       <item>Southampton College</item>
+       <item>South Texas College of Law</item>
+       <item>Southwest Baptist University</item>
+       <item>Southwest Missouri State University</item>
+       <item>Southwest State University</item>
+       <item>Southwest Texas State University</item>
+       <item>Southwestern Adventist College</item>
+       <item>Southwestern University</item>
+       <item>Spelman College</item>
+       <item>Spring Arbor College</item>
+       <item>Spring Hill College</item>
+       <item>Stanford University</item>
+       <item>State University of New York System</item>
+       <item>State University of New York at Albany</item>
+       <item>State University of New York College of Technology at Alfred</item>
+       <item>State University of New York at Binghamton</item>
+       <item>State University of New York College at Brockport</item>
+       <item>State University of New York at Buffalo</item>
+       <item>State University of New York College at Buffalo</item>
+       <item>State University of New York College of Agriculture and Technology at Cobleskill</item>
+       <item>State University of New York College at Cortland</item>
+       <item>State University of New York College of Environmental Science and Forestry</item>
+       <item>State University of New York at Farmingdale</item>
+       <item>State University of New York at Fredonia</item>
+       <item>State University of New York College at Geneseo</item>
+       <item>State University of New York College at New Paltz</item>
+       <item>State University of New York College at Oneonta</item>
+       <item>State University of New York at Oswego</item>
+       <item>State University of New York at Plattsburgh</item>
+       <item>State University of New York College at Potsdam</item>
+       <item>State University of New York at Stony Brook</item>
+       <item>State University of New York Institute of Technology at Utica/Rome</item>
+       <item>Stephen F. Austin State University</item>
+       <item>Stephens College</item>
+       <item>Stetson University</item>
+       <item>Stevens Institute of Technology</item>
+       <item>Strayer College</item>
+       <item>Suffolk University</item>
+       <item>Sul Ross State University</item>
+       <item>Summit University of Louisiana</item>
+       <item>Susquehanna University</item>
+       <item>Swarthmore College</item>
+       <item>Sweet Briar College</item>
+       <item>Syracuse University</item>
+       <item>Tabor College</item>
+       <item>Tarleton State University</item>
+       <item>Taylor University</item>
+       <item>Teachers College, Columbia University</item>
+       <item>Teikyo Marycrest University</item>
+       <item>Temple University</item>
+       <item>Tennessee State University</item>
+       <item>Tennessee Technological University</item>
+       <item>Texas A and M International University</item>
+       <item>Texas A and M International University</item>
+       <item>Texas A and M University-College Station</item>
+       <item>Texas A and M University-College Station</item>
+       <item>Texas A and M University-Corpus Christi</item>
+       <item>Texas A and M University-Corpus Christi</item>
+       <item>Texas A and M University-Kingsville</item>
+       <item>Texas A and M University-Kingsville</item>
+       <item>Texas Christian University</item>
+       <item>Texas Southern University</item>
+       <item>Texas Tech University</item>
+       <item>Texas Tech University-Health Sciences Center</item>
+       <item>Texas Womans University</item>
+       <item>Thomas College</item>
+       <item>Thomas Edison State College</item>
+       <item>Thomas Jefferson University</item>
+       <item>Thomas More College</item>
+       <item>Towson State University</item>
+       <item>Transylvania University</item>
+       <item>Trenton State College</item>
+       <item>Trinity College</item>
+       <item>Trinity College</item>
+       <item>Trinity University</item>
+       <item>Troy State University</item>
+       <item>Truman State University</item>
+       <item>Tucson University</item>
+       <item>Tufts University</item>
+       <item>Tulane University</item>
+       <item>Tuskegee University</item>
+       <item>Union College</item>
+       <item>The Union Institute</item>
+       <item>Union University</item>
+       <item>United States Air Force Academy</item>
+       <item>United States International University</item>
+       <item>United States Merchant Marine Academy</item>
+       <item>United States Military Academy</item>
+       <item>United States Naval Academy</item>
+       <item>The Uniformed Services University of the Health Sciences</item>
+       <item>Ursinus College</item>
+       <item>Ursuline CollegeUA-B</item>
+       <item>University of Akron</item>
+       <item>University of Alabama at Birmingham</item>
+       <item>University of Alabama at Huntsville</item>
+       <item>University of Alabama at Tuscaloosa</item>
+       <item>University of Alaska</item>
+       <item>University of Alaska-Anchorage</item>
+       <item>University of Alaska-Fairbanks</item>
+       <item>University of Alaska-Southeast</item>
+       <item>University of Arizona</item>
+       <item>University of Arkansas - Fayetteville</item>
+       <item>University of Arkansas - Little Rock</item>
+       <item>University of Arkansas for Medical Sciences</item>
+       <item>University of Arkansas - Monticello</item>
+       <item>University of Baltimore</item>
+       <item>University of Bridgeport</item>
+       <item>University of California, Berkeley</item>
+       <item>University of California, Davis</item>
+       <item>University of California, Irvine</item>
+       <item>University of California, Los Angeles</item>
+       <item>University of California, Riverside</item>
+       <item>University of California, San Diego</item>
+       <item>University of California, San Francisco</item>
+       <item>University of California, Santa Barbara</item>
+       <item>University of California, Santa Cruz</item>
+       <item>University of Central Arkansas</item>
+       <item>University of Central Florida</item>
+       <item>University of Central Texas</item>
+       <item>University of Charleston</item>
+       <item>University of Chicago</item>
+       <item>University of Cincinnati</item>
+       <item>University of Colorado at Boulder</item>
+       <item>University of Colorado at Colorado Springs</item>
+       <item>University of Colorado at Denver</item>
+       <item>University of Colorado Health Sciences Center</item>
+       <item>University of Connecticut</item>
+       <item>University of Dallas</item>
+       <item>University of Dayton</item>
+       <item>University of Delaware</item>
+       <item>University of Denver</item>
+       <item>University of the District of Columbia</item>
+       <item>University of Detroit Mercy</item>
+       <item>University of Dubuque</item>
+       <item>University of Evansville</item>
+       <item>University of Florida</item>
+       <item>University of Georgia</item>
+       <item>University of Great Falls</item>
+       <item>University of Guam</item>
+       <item>University of Hartford</item>
+       <item>University of Hawaii at Hilo Physics and Astronomy</item>
+       <item>University of Hawaii at Manoa</item>
+       <item>University of Houston</item>
+       <item>University of Idaho</item>
+       <item>University of Illinois at Chicago</item>
+       <item>University of Illinois at Springfield</item>
+       <item>University of Ilinois at Urbana-Champaign</item>
+       <item>University of Indianapolis</item>
+       <item>University of Iowa</item>
+       <item>University of Kansas</item>
+       <item>University of Kansas School of Medicine</item>
+       <item>University of Kentucky</item>
+       <item>University of La Verne</item>
+       <item>University of Louisville</item>
+       <item>University of Maine System</item>
+       <item>University of Maine</item>
+       <item>University of Maine at Farmington</item>
+       <item>University of Maine at Fort Kent</item>
+       <item>University of Maine at Machias</item>
+       <item>University of Maine at Presque Island</item>
+       <item>University of Maryland at Baltimore</item>
+       <item>University of Maryland at Baltimore County</item>
+       <item>University of Maryland at College Park</item>
+       <item>University of Maryland - University College</item>
+       <item>University of Massachusetts System</item>
+       <item>University of Massachusetts at Amherst</item>
+       <item>University of Massachusetts at Dartmouth</item>
+       <item>University of Massachusetts at Lowell</item>
+       <item>University of Memphis</item>
+       <item>University of Miami</item>
+       <item>University of Michigan-Ann Arbor</item>
+       <item>University of Michigan-Dearborn</item>
+       <item>University of Minnesota</item>
+       <item>University of Minnesota-Crookston</item>
+       <item>University of Minnesota-Duluth</item>
+       <item>University of Minnesota-Morris</item>
+       <item>University of Minnesota-Twin Cities</item>
+       <item>University of Mississippi</item>
+       <item>University of Mississippi Medical Center</item>
+       <item>University of Missouri System</item>
+       <item>University of Missouri-Columbia</item>
+       <item>University of Missouri-Kansas City</item>
+       <item>University of Missouri-Rolla</item>
+       <item>University of Missouri-Saint Louis</item>
+       <item>University of Montana</item>
+       <item>University of Nebraska, Kearney</item>
+       <item>University of Nebraska, Lincoln</item>
+       <item>University of Nebraska, Omaha</item>
+       <item>University of Nevada, Las Vegas</item>
+       <item>University of Nevada, Reno</item>
+       <item>University of New England</item>
+       <item>University of New Hampshire, Durham</item>
+       <item>University of New Haven</item>
+       <item>University of New Mexico</item>
+       <item>University of New Orleans</item>
+       <item>University of North Carolina at Asheville</item>
+       <item>University of North Carolina at Chapel Hill</item>
+       <item>University of North Carolina at Charlotte</item>
+       <item>University of North Carolina at Greensboro</item>
+       <item>University of North Carolina System</item>
+       <item>University of North Carolina at Wilmington</item>
+       <item>University of North Dakota</item>
+       <item>University of North Florida</item>
+       <item>University of North Texas</item>
+       <item>University of North Texas Health Science Center</item>
+       <item>University of Northern Colorado</item>
+       <item>University of Northern Iowa</item>
+       <item>University of Notre Dame</item>
+       <item>University of Oklahoma</item>
+       <item>University of Oregon</item>
+       <item>University of the Ozarks</item>
+       <item>University of the Pacific</item>
+       <item>University of Pennsylvania</item>
+       <item>University of Phoenix</item>
+       <item>University of Pittsburgh</item>
+       <item>University of Pittsburgh at Johnstown</item>
+       <item>University of Portland</item>
+       <item>University of Puerto Rico</item>
+       <item>University of Puget Sound</item>
+       <item>University of Redlands</item>
+       <item>University of Rhode Island</item>
+       <item>University of Richmond</item>
+       <item>University of Rochester</item>
+       <item>University of San Diego</item>
+       <item>University of San Francisco</item>
+       <item>University of Sarasota</item>
+       <item>University of Science  and  Arts of Oklahoma</item>
+       <item>University of Science  and  Arts of Oklahoma</item>
+       <item>University of Scranton</item>
+       <item>University of Sioux Falls</item>
+       <item>University of Southern California</item>
+       <item>University of South Carolina</item>
+       <item>University of South Carolina - Aiken</item>
+       <item>University of South Dakota</item>
+       <item>University of South Florida</item>
+       <item>University of Southern Maine</item>
+       <item>University of Southern Mississippi</item>
+       <item>University of Southwestern Louisiana</item>
+       <item>University of Saint Thomas</item>
+       <item>University of Saint Thomas</item>
+       <item>University of South Alabama</item>
+       <item>University of Southern Colorado</item>
+       <item>University of Southern Indiana</item>
+       <item>University of Tampa</item>
+       <item>University of Tennessee, Knoxville</item>
+       <item>University of Tennessee, Martin</item>
+       <item>University of Texas System</item>
+       <item>University of Texas at Arlington</item>
+       <item>University of Texas at Austin</item>
+       <item>University of Texas at Brownsville</item>
+       <item>University of Texas at Dallas</item>
+       <item>University of Texas at El Paso</item>
+       <item>University of Texas-Pan American</item>
+       <item>University of Texas at San Antonio</item>
+       <item>University of Texas Health Science Center at Houston</item>
+       <item>University of Texas Health Science Center at San Antonio</item>
+       <item>University of Texas at Tyler</item>
+       <item>University of Texas Health Center at Tyler</item>
+       <item>University of Texas M.D. Anderson Cancer Center</item>
+       <item>University of Texas Medical Branch</item>
+       <item>University of Texas Southwestern Medical Center at Dallas</item>
+       <item>University of Toledo</item>
+       <item>University of Tulsa</item>
+       <item>University of Utah</item>
+       <item>University of Vermont</item>
+       <item>University of the Virgin Islands</item>
+       <item>University of Virginia, Charlottesville</item>
+       <item>University of Washington</item>
+       <item>University of West Alabama</item>
+       <item>University of West Florida</item>
+       <item>University of Wisconsin System</item>
+       <item>University of Wisconsin-Eau Claire</item>
+       <item>University of Wisconsin-Green Bay</item>
+       <item>University of Wisconsin-LaCrosse</item>
+       <item>University of Wisconsin-Madison</item>
+       <item>University of Wisconsin-Milwaukee</item>
+       <item>University of Wisconsin-Oshkosh</item>
+       <item>University of Wisconsin-Parkside</item>
+       <item>University of Wisconsin-Platteville</item>
+       <item>University of Wisconsin-River Falls</item>
+       <item>University of Wisconsin-Stevens Point</item>
+       <item>University of Wisconsin-Stout</item>
+       <item>University of Wisconsin-Superior</item>
+       <item>University of Wisconsin-Whitewater</item>
+       <item>University of Wyoming</item>
+       <item>Upper Iowa University</item>
+       <item>Utah State University</item>
+       <item>Utah Valley State College</item>
+       <item>Valley City State University</item>
+       <item>Valdosta State University</item>
+       <item>Valparaiso University</item>
+       <item>Vanderbilt University</item>
+       <item>Vassar College</item>
+       <item>Vermont Technical College</item>
+       <item>Villa Julie College</item>
+       <item>Villanova University</item>
+       <item>Virginia Commonwealth University</item>
+       <item>Virginia Intermont College</item>
+       <item>Virginia Military Institute</item>
+       <item>Virginia Polytechnic Institute and State University</item>
+       <item>Virginia State University</item>
+       <item>Virginia Wesleyan College</item>
+       <item>Wabash College</item>
+       <item>Wake Forest University</item>
+       <item>Walden University</item>
+       <item>Walla Walla College</item>
+       <item>Warren Wilson College</item>
+       <item>Wartburg College</item>
+       <item>Washburn University</item>
+       <item>Washington Bible College/Capital Bible Seminary</item>
+       <item>Washington and Lee University</item>
+       <item>Washington College</item>
+       <item>Washington State University</item>
+       <item>Washington State University at Tri-Cities</item>
+       <item>Washington State University at Vancouver</item>
+       <item>Washington University, Saint Louis</item>
+       <item>Wayne State University</item>
+       <item>Waynesburg College</item>
+       <item>Webster University</item>
+       <item>Wellesley College</item>
+       <item>Wells College</item>
+       <item>Wentworth Institute of Technology</item>
+       <item>Wesley College</item>
+       <item>Wesleyan University</item>
+       <item>West Chester University of Pennsylvania</item>
+       <item>West Coast University</item>
+       <item>West Georgia College</item>
+       <item>West Liberty State College</item>
+       <item>West Texas A and M University</item>
+       <item>West Texas A and M University</item>
+       <item>West Virginia University</item>
+       <item>West Virginia University at Parkersburg</item>
+       <item>Western Carolina University</item>
+       <item>Western Connecticut State University</item>
+       <item>Western Illinois University</item>
+       <item>Western Kentucky University</item>
+       <item>Western Maryland College</item>
+       <item>Western Michigan University</item>
+       <item>Western Montana College</item>
+       <item>Western New England College</item>
+       <item>Western New Mexico University</item>
+       <item>Western State College</item>
+       <item>Western Washington University</item>
+       <item>Westfield State College</item>
+       <item>Westminster College</item>
+       <item>Westminster College</item>
+       <item>Westminster College of Salt Lake City</item>
+       <item>Westminster Theological Seminary</item>
+       <item>Westmont College</item>
+       <item>Wheaton College</item>
+       <item>Wheaton College, Norton MA</item>
+       <item>Wheeling Jesuit College</item>
+       <item>Whitman College</item>
+       <item>Whittier College</item>
+       <item>Whitworth College</item>
+       <item>Wichita State University</item>
+       <item>Widener University</item>
+       <item>Wilberforce University</item>
+       <item>Wilkes University</item>
+       <item>Willamette University</item>
+       <item>William Howard Taft University</item>
+       <item>William Jewell College</item>
+       <item>William Mitchell College of Law</item>
+       <item>William Penn College</item>
+       <item>William Paterson College</item>
+       <item>William Woods University</item>
+       <item>Williams College</item>
+       <item>Wilmington College</item>
+       <item>Winona State University</item>
+       <item>Winthrop University</item>
+       <item>Wittenberg University</item>
+       <item>Wofford College</item>
+       <item>Woodbury University</item>
+       <item>Worcester Polytechnic Institute</item>
+       <item>Wright State University</item>
+       <item>Xavier University of Louisiana</item>
+       <item>Yale University</item>
+       <item>Yeshiva University</item>
+       <item>York College of Pennsylvania</item>
+       <item>Youngstown State University</item>
+   </array>
+
+
+</resources>

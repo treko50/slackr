@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departments">
+    <item>Accounting</item>
+    <item>Aerospace Engineering</item>
+    <item>African American Studies</item>
+    <item>Agricultural and Resource Economics</item>
+    <item>Air Force ROTC</item>
+    <item>American Studies</item>
+    <item>Animal and Avian Sciences</item>
+    <item>Anthropology</item>
+    <item>Applied Mathematics and Scientific Computation Program</item>
+    <item>Arabic Studies</item>
+    <item>Architecture</item>
+    <item>Army ROTC</item>
+    <item>Art</item>
+    <item>Art History and Archaeology</item>
+    <item>Asian American Studies Program</item>
+    <item>Astronomy</item>
+    <item>Atmospheric and Oceanic Science</item>
+    <item>Behavioral and Community Health</item>
+    <item>Biochemistry</item>
+    <item>Bioengineering</item>
+    <item>Biological Sciences Undergraduate Program</item>
+    <item>Biology</item>
+    <item>Biophysics</item>
+    <item>Business</item>
+    <item>Cell Biology and Molecular Genetics</item>
+    <item>Chemical and Biomolecular Engineering</item>
+    <item>Chemical Physics Program</item>
+    <item>Chemistry and Biochemistry</item>
+    <item>Chinese Language and Culture</item>
+    <item>Civil and Environmental Engineering</item>
+    <item>Classics</item>
+    <item>Communication</item>
+    <item>Comparative Literature Program</item>
+    <item>Computer Science</item>
+    <item>Counseling Psychology, School Psychology, and Counselor Education</item>
+    <item>Criminology and Criminal Justice</item>
+    <item>Dance</item>
+    <item>Decision, Operations and Information Technologies</item>
+    <item>Economics</item>
+    <item>Education, Curriculum and Instruction</item>
+    <item>Electrical and Computer Engineering</item>
+    <item>English Language and Literature</item>
+    <item>Entomology</item>
+    <item>Environmental Science and Policy Program</item>
+    <item>Environmental Science and Technology Program</item>
+    <item>Epidemiology and Biostatistics</item>
+    <item>Executive Programs</item>
+    <item>Family Science</item>
+    <item>Film Studies</item>
+    <item>Finance</item>
+    <item>Fire Protection Engineering</item>
+    <item>Bioengineering</item>
+    <item>French Studies</item>
+    <item>Geography</item>
+    <item>Geology</item>
+    <item>Germanic Studies</item>
+    <item>Government and Politics</item>
+    <item>Health Services Administration</item>
+    <item>Hearing and Speech Sciences</item>
+    <item>Higher Education, Student Affairs, and International Education Policy</item>
+    <item>Historic Preservation Program</item>
+    <item>History</item>
+    <item>Human Development (Institute for Child Study)</item>
+    <item>Individual Studies Program</item>
+    <item>Information Systems and Management Science and Statistics</item>
+    <item>Institute of Applied Agriculture</item>
+    <item>Italian Language and Literature</item>
+    <item>Japanese Language and Culture</item>
+    <item>Jewish Studies Program</item>
+    <item>Joint Program in Survey Methodology</item>
+    <item>Journalism</item>
+    <item>Kinesiology</item>
+    <item>Korean Language and Culture</item>
+    <item>Landscape Architecture</item>
+    <item>Latin American Studies Center</item>
+    <item>Lesbian, Gay, Bisexual, and Transgender (LGBT) Studies Program</item>
+    <item>Letters and Sciences</item>
+    <item>Linguistics</item>
+    <item>Logistics, Business and Public Policy</item>
+    <item>Management and Organization</item>
+    <item>Marine Estuarine Environmental Sciences</item>
+    <item>Marketing</item>
+    <item>Maryland Institute for Applied Environmental Health</item>
+    <item>Materials Science and Engineering</item>
+    <item>Mathematics</item>
+    <item>Measurement, Statistics and Evaluation</item>
+    <item>Mechanical Engineering</item>
+    <item>Music</item>
+    <item>National Persian Flagship Program</item>
+    <item>Natural Resources Management Program</item>
+    <item>Naval ROTC</item>
+    <item>Networking and Telecommunications Services</item>
+    <item>Neuroscience and Cognitive Science Program</item>
+    <item>Nutrition and Food Science</item>
+    <item>Persian Studies</item>
+    <item>Philosophy</item>
+    <item>Physics</item>
+    <item>Plant Sciences and Landscape Architecture</item>
+    <item>Psychology</item>
+    <item>Public Policy</item>
+    <item>Real Estate Development Program</item>
+    <item>Reliability Engineering</item>
+    <item>Russian Language and Culture</item>
+    <item>School of Languages, Literatures and Cultures</item>
+    <item>Second Language Acquisition</item>
+    <item>Sociology</item>
+    <item>Spanish and Portuguese languages and Literatures</item>
+    <item>Special Education</item>
+    <item>Statistics Program</item>
+    <item>Sustainable Development and Conservation Biology (CONS)</item>
+    <item>Teaching and Learning, Policy and Leadership</item>
+    <item>Theatre</item>
+    <item>Urban Studies and Planning</item>
+    <item>Veterinary Medicine</item>
+    <item>Womens Studies</item>
+    </string-array>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LoadClassActivity">
+
+
+    <TextView
+        android:id="@+id/universityLabel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="@string/university_string"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+    </TextView>
+
+    <AutoCompleteTextView
+        android:id= "@+id/autocompleteUni2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint= "@string/university"
+        android:layout_below="@id/universityLabel2"
+        android:completionThreshold="3"
+        />
+    <TextView
+        android:id="@+id/departmentLabel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_below="@id/autocompleteUni2"
+        android:text="@string/department_string"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+    </TextView>
+
+    <AutoCompleteTextView
+        android:id= "@+id/autocompleteDep2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint= "@string/department_hint"
+        android:layout_below="@id/departmentLabel2"
+        android:completionThreshold="3"
+        />
+
+
+    <TextView
+        android:id="@+id/classLabel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/autocompleteDep2"
+        android:layout_marginTop="8dp"
+        android:text="@string/class_string"
+        android:textAppearance="?android:attr/textAppearanceLarge" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/title2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/classLabel2"
+        android:ems="10"
+        android:hint="@string/enter_title_string"
+        android:inputType="textShortMessage" >
+        <requestFocus />
+    </EditText>
+
+    <!-- Buttons -->
+
+    <Button
+        android:id="@+id/cancelButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="@string/cancel_string" />
+
+    <Button
+        android:id="@+id/resetButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/reset_string" />
+
+    <Button
+        android:id="@+id/searchButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/search_string" />
+
+
+</RelativeLayout>

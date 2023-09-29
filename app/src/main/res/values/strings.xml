@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Slackr</string>
+    <array name="countries">
+        <item name="america">America</item>
+        <item name="france">France</item>
+        <item name="spain">Spain</item>
+        <item name="columbia">Columbia</item>
+        <item name="russia">Russia</item>
+    </array>
+    <string name="group">Study Groups</string>
+    <string name="university">University Name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_title_name">Enter title name</string>
+    <string name="enter_author_name">Enter author\'s name</string>
+    <string name="add_titles">Add Titles</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="tap_to_view">Tap on an Author to add and view titles</string>
+    <string name="one">1</string>
+    <string name="add">Add</string>
+    <string name="authors">Authors</string>
+    <string name="account_login">Account Login</string>
+    <string name="delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="titles">Titles</string>
+    <string name="update">Update</string>
+    <string name="done_string">Done:</string>
+    <string name="priority_string">Priority:</string>
+    <string name="date_string">Date:</string>
+    <string name="find_study_group">Find Study Group</string>
+    <string name="class_string">Class Department and Number</string>
+    <string name="groupSize_string">Study Group Size</string>
+    <string name="not_done_string">Not Done</string>
+    <string name="priority_low_string">Low</string>
+    <string name="priority_medium_string">Medium</string>
+    <string name="priority_high_string">High</string>
+    <string name="time_and_date_string">Time and Date</string>
+    <string name="no_date_set_string">0000&#8211;00&#8211;00</string>
+    <string name="no_time_set_string">00:00:00</string>
+    <string name="choose_date_string">Choose Date</string>
+    <string name="choose_time_string">Choose Time</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="reset_string">Reset</string>
+    <string name="submit_string">Submit</string>
+    <string name="search_string">Search</string>
+    <string name="enter_title_string">I.E CMSC436</string>
+    <string name="university_string">University</string>
+    <string name= "department_string">Department</string>
+    <string name= "department_hint">Department Name</string>
+    <string name = "section_string">Section Number</string>
+    <string name = "section_number">I.E 0101</string>
+    <string name = "two">2</string>
+    <string name = "three">3</string>
+    <string name = "four">4</string>
+    <string name = "fiveormore">5+ </string>
+    <string name = "firstName">First Name</string>
+    <string name = "listmyGroups">My Study Groups</string>
+    <string name = "display_name">Test CMSC436</string>
+    <string name = "lastName"> Last Name </string>
+    <string name = "display_uni">Test Maryland</string>
+    <string name = "display_section">Test 0101</string>
+    <string name = "display_dep">Test CMSC</string>
+    <string name = "display_size">Test 2</string>
+    <string name = "display_members">Test 4</string>
+    <string name = "join_button">Join</string>
+    <string name = "show_members">Group Members</string>
+
+
+    <string name="test_author">Ivo Andric</string>
+    <string name="test_country">Kingdom of Yugoslavia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
