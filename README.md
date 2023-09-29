@@ -1,5 +1,5 @@
-#Slackr Application
-#Online Student Group Android Application
+# Slackr Application
+# Online Student Group Android Application
 
 Slackr is an Android application designed to foster online connections among college students through class-based group chats. Leveraging the power of Google Firebase for user authentication, Slackr provides a social media-like environment within the app, allowing students to connect, collaborate, and engage in class discussions.
 
